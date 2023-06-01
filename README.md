@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <div>
     <text>
          📫 How to reach me: ...
+        <br>
       💬 Ask me about Fullstack Developement, Firebase, Cloud Firestore, Raect Native, ReactJS, NodeJS, Java, PHP, SQL
     </text>
 </div>
