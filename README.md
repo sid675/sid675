@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <text style=bold>
+  <text>
+    <b>
     Connect with me: 
+    </b>
   </text>
 </div>
