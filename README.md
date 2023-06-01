@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <text>
-  💬 Ask me about Fullstack Developement, Firebase, Cloud Firestore, Raect Native, ReactJS, NodeJS, Java, PHP, SQL
-  </text>
+  <div>
+    <text>
+      💬 Ask me about Fullstack Developement, Firebase, Cloud Firestore, Raect Native, ReactJS, NodeJS, Java, PHP, SQL
+    </text>
+    </div>
 </div>
 
 <div>
