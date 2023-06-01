@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-Connect with me: 
+  <text>
+    Connect with me: 
+  </text style=bold>
 </div>
