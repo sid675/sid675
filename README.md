@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <text style='bold'>
+  <text style=bold>
     Connect with me: 
   </text>
 </div>
