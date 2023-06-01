@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-- 💬 Ask me about Fullstack Developement, Firebase, Cloud Firestore, Raect Native, ReactJS, NodeJS, Java, PHP, SQL
+  <text>
+  💬 Ask me about Fullstack Developement, Firebase, Cloud Firestore, Raect Native, ReactJS, NodeJS, Java, PHP, SQL
+  </text>
 </div>
 
 <div>
-  <text>
+  <text style='bold'>
     Connect with me: 
-  </text style=bold>
+  </text>
 </div>
