@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 💬 Ask me about Fullstack Developement, Firebase, Cloud Firestore, Raect Native, ReactJS, NodeJS, Java, PHP, SQL
 Connect with me: 
 
